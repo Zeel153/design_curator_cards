@@ -66,7 +66,7 @@ Use these terms. If a term is not on this list, define it before using it.
 | Navigo Découverte | The physical smart card for weekly unlimited transit |
 | Arrondissement | One of the 20 administrative districts of Paris |
 | RER | Réseau Express Régional (High-speed trains connecting Paris to suburbs |
-| | |
+| Haussmann Style | The distinct 19th-century architectural style of Paris’s stone buildings |
 
 *Aim for 15–25 terms total. Build this list during your Exploration phase.*
 
