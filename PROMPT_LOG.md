@@ -12,17 +12,16 @@
 - **What I sent:**
 
 ```
-[Paste the prompt you used here]
+Paris 2026 Trip Planning
 ```
 
 - **What I got back (summary):**
 
-*[1–3 sentences: what was useful, what was wrong, what you kept]*
+"Generate a concept map that visually outlines trip planning to Paris: destinations → activities → budget → transport → lodging."
 
 - **What I did with it:**
 
-*[Did you pin it? Discard it? Edit it? Promote it to AGENTS.md?]*
-
+Provided a 5-pillar structure focusing on the core logistics of a standard trip.
 ---
 
 ## Prompt 2
@@ -35,23 +34,23 @@
 [Paste prompt here]
 ```
 
-- **What I got back (summary):**
+- **What I got back (summary):*For 10 days but in short.*
 
-- **What I did with it:**
+- **What I did with it:*Condensed a 10-day "Deep Dive" itinerary, introducing the "Dual-Stay Strategy" and neighborhood immersion.*
 
 ---
 
 ## Prompt 3
 
 - **Phase:**
-- **Prompt name:**
+- **Prompt name:*Distinctions that helped clarify things (e.g., visa requirements vs. travel insurance)."*
 - **What I sent:**
 
 ```
 [Paste prompt here]
 ```
 
-- **What I got back (summary):**
+- **What I got back (summary):*Defined legal entry (ETIAS vs. Visa), transport modes (Metro vs. RER), and access passes (Museum Pass vs. Paris Pass).*
 
 - **What I did with it:**
 
