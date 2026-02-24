@@ -77,8 +77,8 @@ Pin the distinctions that surprised you or corrected you.
 
 | Decision | Your Answer |
 |---|---|
-| Card 3 movement | [New Wave / Grunge — pick one, say why] |
-| Expert for critique | [Name — say why this expert for this card] |
+| Travel Style | Relaxed sightseeing / budget traveler / food-focused |
+| Major Priority | Museums / food / parks |
 
 ## THINGS I CHANGED MY MIND ABOUT
 
