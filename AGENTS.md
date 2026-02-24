@@ -58,14 +58,14 @@ Use these terms. If a term is not on this list, define it before using it.
 | Transit pass | A pre-paid pass allowing unlimited local transport |
 | Sightseeing priority | Ranking of attractions by interest level |
 | Local food specialty | A traditional dish or cuisine of the destination |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
+| Cave à Vin | A wine cellar or shop that often serves small plates |
+| Service Compris | Service included"—means the tip is already in the price of your meal |
+| Vernissage | An art gallery opening or preview (common in Le Marais) |
+| ETIAS | European Travel Information and Authorization System (Pre-entry security) |
+| Schengen Area | The zone of 27 European countries with no internal border controls |
+| Navigo Découverte | The physical smart card for weekly unlimited transit |
+| Arrondissement | One of the 20 administrative districts of Paris |
+| RER | Réseau Express Régional (High-speed trains connecting Paris to suburbs |
 | | |
 
 *Aim for 15–25 terms total. Build this list during your Exploration phase.*
