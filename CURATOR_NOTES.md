@@ -16,9 +16,9 @@
 Write bluntly. Wrong answers are fine. That is the point.
 ```
 
-1.
-2.
-3.
+1.My destination is Paris
+2.I want to travel for 10 days
+3.I know my budget is about $500-$700
 
 ## WHAT I DO NOT KNOW
 
@@ -27,9 +27,9 @@ What are you fuzzy on? What might be completely wrong?
 Be honest. Uncertainty is data.
 ```
 
-1.
-2.
-3.
+1.Best places to visit in the time I have
+2.How long to spend at each major site
+3.Transportation options and estimated costs
 
 ## VOCABULARY I NEED BEFORE I CAN WRITE
 
@@ -38,9 +38,9 @@ List the domain terms you need to learn.
 If you cannot define it in one sentence, you do not know it yet.
 ```
 
-1.
-2.
-3.
+1.Itinerary – a detailed plan for my days
+2.Sightseeing priority – ranking of attractions by interest level
+3.Local transport passes – e.g., metro cards, city travel cards
 
 ---
 
@@ -87,5 +87,5 @@ After research, what did you reverse on? If nothing, you were not
 paying attention or you already knew everything. Pick one.
 ```
 
-1.
-2.
+1.I thought the Louvre would take 3 hours, but actually it’ll take 5+
+2.Budget for daily meals is higher than I first guessed
