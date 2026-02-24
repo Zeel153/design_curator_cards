@@ -11,9 +11,9 @@
 <!-- WHY THIS IS SET: Museum labels target a specific reader. Defining audience
      prevents the AI from writing for the wrong context (too academic, too casual). -->
 
-- **Audience:** Museum visitors with general interest in design (not experts)
-- **Tone:** Authoritative but accessible. Think museum wall label — precise, confident, no fluff.
-- **Reading level:** Educated adult, no jargon without context
+- **Audience:** You and future users with general interest in travel planning
+- **Tone:** Friendly but precise — clear instructions, no fluff or filler
+- **Reading level:** Educated adult, avoid unexplained jargon
 
 ## Hard Constraints
 
@@ -53,11 +53,11 @@ Use these terms. If a term is not on this list, define it before using it.
 | Term | Definition |
 |------|-----------|
 | Vorkurs | Bauhaus foundation course teaching materials, form, and color |
-| *[Add your terms here]* | *[One-sentence definition]* |
-| | |
-| | |
-| | |
-| | |
+| Travel budget | Total money allocated for the whole trip |
+| Itinerary | A day-by-day plan of activities and logistics |
+| Transit pass | A pre-paid pass allowing unlimited local transport |
+| Sightseeing priority | Ranking of attractions by interest level |
+| Local food specialty | A traditional dish or cuisine of the destination |
 | | |
 | | |
 | | |
